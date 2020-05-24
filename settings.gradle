@@ -1,0 +1,2 @@
+rootProject.name='ToDoApplicationUdacity'
+include ':app'
